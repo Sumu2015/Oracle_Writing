@@ -13,7 +13,8 @@ This repository contains SQL queries along with their results.
 <img width="297" alt="image" src="https://github.com/Sumu2015/SQL_Practise/assets/81559277/632fc6fd-824e-4474-b818-5171a4e99e48">
 
 ### ANALYTIC FUNCTION
-<img width="349" alt="image" src="https://github.com/Sumu2015/SQL_Practise/assets/81559277/d3c5acba-c47c-491d-8fc5-3ca0aff5e345">
+<img width="349" alt="image" src="https://github.com/Sumu2015/SQL_Practise/assets/81559277/a222a639-6aa5-43fe-9419-b2e8e0969cd3">
+
 
 
 
